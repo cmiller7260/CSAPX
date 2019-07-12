@@ -1,0 +1,16 @@
+# File: t1a
+# This DFA accepts any string that starts with 'ab'
+# Q
+1 2 3
+# Sigma
+a b
+# s
+1
+# F
+1
+# delta
+1 b 2
+1 . 3
+2 a 2 3
+2 b 3
+3 a 1

@@ -1,0 +1,5 @@
+# example ex0
+~x1,~x2,~x2
+~x1,x2,x2
+x1,x1,x2
+END

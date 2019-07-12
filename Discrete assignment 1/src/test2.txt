@@ -1,0 +1,24 @@
+# File: dfa.1.11
+# this DFA recognizes any string of as and bs that
+# starts and ends with the same letter
+# Diagram is in Sipser Example 1.11
+# Q - the set of states
+s q1 q2 r1 r2
+# Sigma - the alphabet
+a b
+# q_0 - the start state
+s
+# F - the set of accept states
+q1 r1
+# delta - the transition function
+s a q1
+s b r1
+q1 a q1
+q1 b q2
+q2 a q1
+q2 b q2
+r1 a r2
+r1 b r1
+r2 a r2
+r2 b r1
+# end of DFA
