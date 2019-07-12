@@ -1,0 +1,12 @@
+
+On the following lines...
+file 1: 7.         This won't drive you crazy.<br/>
+file 2: 5. <body><p>This will drive you crazy.<b/><br/> </p></body></html>
+"This won't drive you crazy." != "This will drive you crazy.". simple text mismatch; continuing...
+
+On the following lines...
+file 1: 7.         This won't drive you crazy.<br/>
+file 2: 5. <body><p>This will drive you crazy.<b/><br/> </p></body></html>
+<br/> != <b/>. attempting to continue to end of <p> section... succeeded.
+
+Files partially match but with above differences.

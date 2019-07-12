@@ -1,0 +1,12 @@
+commit fc4cbcf65fb59275aa0797e35cc05189d716b48e
+Author: chris <czm6134@g.rit.edu>
+Date:   Sun Oct 15 22:24:30 2017 -0400
+
+    "Chris Miller project 1: project one takes two files as input and
+    compares them based on the patern, tag - text with text including a space
+    to allow for an open tag open tag. multiple spaces are treated as a single space
+    and all whitespace charicters are treated the same. if the tag is a break the
+    program will continue to the next tag however if the tags do not match in both files
+    the program will continue each file searching for the next closing tag ie the inner most tag
+    had some trouble with the line the error was on becasue of processing the new line befroe comparing the two objects,
+    however i beleave it was a simple off by one error and that it should work for all files, ie i worked for all the test files."

@@ -1,0 +1,5 @@
+commit 4baff7c29d931554ff249956eae895b17c17f6b2
+Author: chris <czm6134@g.rit.edu>
+Date:   Sun Dec 10 23:33:27 2017 -0500
+
+    """ok, so I did not finish the project... i did not give myself enough time to properly work on it and the past 4 days i have been really sick, this is no excuse but i simply wantd to explain my cersomstance. the GUI and PTUI i beleave work as they should, that is they function as far as i can tell with a single client. the main problem that i was facing is that i could not get the multithreaded nature of the server to work, it would allow multiple connections but as soon as a second client or third client connect and log in, and someone places a tile the server would just sit there and do nothing, i could not figure this out for the life of me... i left all of my print statements in the code since it is not completely functinal to ain in your grading it since thta will be a heavy partial credit grade im afraid.."""

@@ -1,0 +1,7 @@
+
+On the following lines...
+file 1: 1. <html>
+file 2: 1. <div>
+<html> != <div>. Non-text difference at outermost level.
+
+Files do not match.

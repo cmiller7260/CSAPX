@@ -1,0 +1,7 @@
+
+On the following lines...
+file 1: 5.     <c>
+file 2: 5.     <d>
+<c> != <d>. attempting to continue to end of <a> section... succeeded.
+
+Files partially match but with above differences.

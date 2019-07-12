@@ -1,0 +1,6 @@
+
+On the following lines...
+file 1: 12. <extra>
+file 2: 13. <extra> != End-Of-File. Non-text difference at outermost level.
+
+Files do not match.
