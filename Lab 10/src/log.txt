@@ -1,0 +1,11 @@
+commit d1025768091717eb901cfc2e6abd44d710227d5c
+Author: chris <czm6134@g.rit.edu>
+Date:   Wed Nov 15 19:55:15 2017 -0500
+
+    """Chris Miller. possibly the final push, I believe that I got everything to work. commented the program. will check later for more errors, if I find any I will fix them and resubmit again."""
+
+commit 9cc4deb685ed1b9e7b7ec3b048b582ed2057d224
+Author: chris <czm6134@g.rit.edu>
+Date:   Tue Nov 14 15:21:18 2017 -0500
+
+    """got the uncompression to work, and it displays the picture... got points off for only one push, so I am pushing now even tho it is not done, but I have something working to I will push it."""

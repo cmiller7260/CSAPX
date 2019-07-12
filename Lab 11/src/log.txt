@@ -1,0 +1,5 @@
+commit ed04dca632d8edbacd8c195c3a69276ed5039fec
+Author: chris <czm6134@g.rit.edu>
+Date:   Wed Dec 6 19:14:09 2017 -0500
+
+    """Everything seems to be working as intended, I changed the getSuccessors method by checking if the placement was valid before placing the suitcase and adding the child to the list of children. this made most of the cases faster, ones that seemed to be slower were the ones that werent solvable. I also implemented an instant fail boolean on the trunk to tell if the inital trunk was invalid in two ways, one was if the total space the trunks would occupy was larger then the trunk had, and the second was if any single suitcase was unable to fit in the empty trunk."""
