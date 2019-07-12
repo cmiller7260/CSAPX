@@ -1,0 +1,5 @@
+commit 2029e798b59014137b03e36f831db668472a4f95
+Author: chris <czm6134@g.rit.edu>
+Date:   Wed Nov 8 20:53:09 2017 -0500
+
+    """Chris Miller Lab8.   I think that I got everything to work correctly. I created a new button class so that it could hold its location on the board. the gui starts and runs as intended buttons not ennabled untill it is the players turn and then only valid moves are allowed by only ennabling the valid buttons. a text box is used to prompt the player fro a move and notifying them another player is making a move and the number or moves left and displays the correct end game notifacation for both players.""""

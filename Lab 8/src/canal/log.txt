@@ -1,0 +1,11 @@
+commit d9378b04d700f38a5d0f640c09861e48d31088ab
+Author: chris <czm6134@g.rit.edu>
+Date:   Wed Nov 1 17:40:38 2017 -0400
+
+    """the final push, everything seems to be working. only thing that might be odd is that I made a random que of numbers for my unique boat id, i realize that this is not nessary but it works and i realsized this after making the queue so might as well use it.."""
+
+commit b8ef75e7eae434de22924bd4c8972847115788d9
+Author: chris <czm6134@g.rit.edu>
+Date:   Fri Oct 27 11:43:00 2017 -0400
+
+    """the push for in lab"""
