@@ -1,0 +1,5 @@
+commit 70f7abb6da54448e221ef8be8d98cf1b49c5deec
+Author: chris <czm6134@g.rit.edu>
+Date:   Wed Oct 11 18:22:01 2017 -0400
+
+    """ everything seems to be working okay, the data is stored in an arraylist of pairs of <String name, Long count> and then sorted based on a custom compare based on the values of the pairs and then compared to the keys aka names of the words if the values are equal. this structure is forgotten after the rank is returned. I think that this is what makes the zipf command run slower then expected, the only solution I can see is to remember the sorted structures somehow for later use to reduce sorting the same data over and over."""

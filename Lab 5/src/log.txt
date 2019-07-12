@@ -1,0 +1,9 @@
+commit 628b5d4961183c3edb7847275cfbbf0095c8d16b
+Author: chris <czm6134@g.rit.edu>
+Date:   Sat Oct 7 22:43:41 2017 -0400
+
+    "chris miller Lab4, not working as intended will specify in the git log.txt
+- the reading of the input file works as intended, along with adding the objects into the hashset, every object has a parent object and an array of children objects.
+- with the run method, i ran into some problems, the display works as intended, turning on works however the current does not update properly with the circuits but there is a relation when turning on and off a child component but i did not have time to trouble shoot it. turning on also does not overload the circuit becase it is not implemente correctly. pluging and unpluging i did nto have time to complete and wanted to focus more on the core structure.
+- turning off a component will turn off that component, but not the children, did didnt have time to implent it correctly
+overall most of the methods work mostly, hopefully you can follow my code to see my process however i did not comment heavely becasue i was more focused on geting it to work."

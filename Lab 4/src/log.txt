@@ -1,0 +1,11 @@
+commit 563d784403eda7d719e7d6029941bb3fbbdac338
+Author: chris <czm6134@g.rit.edu>
+Date:   Tue Sep 19 22:39:14 2017 -0400
+
+    "Lab3 had trouble figuring out how to make the sorting algorithems work on a named tuple but I think that I figured it out"
+
+commit 8d6c3edb531ca30dede9c9a1708da4e828f02a15
+Author: chris <czm6134@g.rit.edu>
+Date:   Tue Sep 19 22:37:34 2017 -0400
+
+    ""

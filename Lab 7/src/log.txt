@@ -1,0 +1,6 @@
+commit 8a6a765056052e6631824480e7c61bafb71def86
+Author: chris <czm6134@g.rit.edu>
+Date:   Wed Oct 25 21:39:52 2017 -0400
+
+    """Chris Miller - Lab6
+    program works as intended, however not sure about the try and exception handeling.. also didnt know how to make the client more object oriented, so insted of makeing somethign that didnt work, I made a progrma that worked and used as many objects and seperate methods and classes as I could figure out."""
